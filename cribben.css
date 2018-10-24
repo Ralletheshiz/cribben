@@ -1,4 +1,4 @@
-*{ 
+* { 
     margin:0;
     padding:0;
     /* Hvis alt skal nulstilles */
@@ -12,15 +12,13 @@
     grid-template-rows: 1fr 1fr 1fr;
     grid-gap: 25px; 
     background: linear-gradient(to top, white, grey);
-    font-family: 'Slabo 27px', serif; 
-    
+    font-family: 'Slabo 27px', serif;    
 }
 
 .title1 {
    color:white;
    text-shadow: 0 0 10px white, 10px 0 40px black; 
    box-shadow: 0 0 30px gray;
-
 }
 
 .overskrift {
@@ -30,8 +28,8 @@
     border: 2px black solid; 
     margin:auto;
     background-color: grey; 
-    margin:20px 20px;
-    text-transform:uppercase;
+    margin: 20px 20px;
+    text-transform: uppercase;
     font-family: 'Montserrat', sans-serif; 
     padding: 10px 10px 3px 10px; 
 }
